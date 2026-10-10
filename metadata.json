@@ -1,0 +1,6 @@
+{
+  "name": "AERIS-1 Engineering Workbench",
+  "description": "Autonomous Environmental Intelligence & Recovery System engineering and mission validation workstation for CanSat design, telemetry, power, parachute sizing, and recovery verification under NAT-004.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
